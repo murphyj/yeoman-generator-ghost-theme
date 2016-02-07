@@ -1,0 +1,15 @@
+{
+  "name": "generator-ghost-theme",
+  "version": "0.1.0",
+  "description": "Generator for producing Ghost Themes. Supports SASS, minification of js and default project setup for a Ghost theme",
+  "files": [
+    "app",
+    "router"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.20.3"
+  }
+}
